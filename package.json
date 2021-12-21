@@ -1,0 +1,22 @@
+{
+  "name": "stringor",
+  "version": "0.1.0",
+  "description": "Random String Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "author": "vixerys",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vixerys/stringor.git"
+  },
+  "homepage": "https://github.com/vixerys/stringor",
+  "devDependencies": {
+    "eslint": "^8.5.0"
+  }
+}
